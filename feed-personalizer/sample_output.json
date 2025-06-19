@@ -1,0 +1,14 @@
+{
+  "user_id": "stu_4432",
+  "ranked_posts": [
+    {
+      "post_id": "post_1001",
+      "score": 0.89
+    },
+    {
+      "post_id": "post_1002",
+      "score": 0.62
+    }
+  ],
+  "status": "ranked"
+}

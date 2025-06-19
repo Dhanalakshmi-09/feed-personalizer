@@ -1,0 +1,172 @@
+{
+  "user_id": "stu_4432",
+  "user_profile": {
+    "branches_of_interest": ["CSE", "AI"],
+    "tags_followed": ["coding", "startups", "python"],
+    "buddies": ["stu_2010", "stu_3012"],
+    "active_hours": ["08:00-11:00", "21:00-23:00"]
+  },
+  "posts": [
+    {
+      "post_id": "post_1001",
+      "author_id": "stu_1009",
+      "tags": ["internships", "coding"],
+      "content_type": "text",
+      "karma": 40,
+      "created_at": "2024-07-18T09:45:00Z"
+    },
+    {
+      "post_id": "post_1002",
+      "author_id": "stu_2010",
+      "tags": ["clubs", "events"],
+      "content_type": "video",
+      "karma": 70,
+      "created_at": "2024-07-18T10:30:00Z"
+    },
+    {
+      "post_id": "post_1003",
+      "author_id": "stu_3012",
+      "tags": ["python", "machine learning"],
+      "content_type": "text",
+      "karma": 55,
+      "created_at": "2024-07-18T11:15:00Z"
+    },
+    {
+      "post_id": "post_1004",
+      "author_id": "stu_4432",
+      "tags": ["startups", "entrepreneurship"],
+      "content_type": "image",
+      "karma": 120,
+      "created_at": "2024-07-18T21:00:00Z"
+    },
+    {
+      "post_id": "post_1005",
+      "author_id": "stu_2001",
+      "tags": ["coding", "hackathons"],
+      "content_type": "text",
+      "karma": 80,
+      "created_at": "2024-07-18T08:30:00Z"
+    },
+    {
+      "post_id": "post_1006",
+      "author_id": "stu_3010",
+      "tags": ["AI", "research"],
+      "content_type": "text",
+      "karma": 95,
+      "created_at": "2024-07-18T22:15:00Z"
+    },
+    {
+      "post_id": "post_1007",
+      "author_id": "stu_4432",
+      "tags": ["startups", "coding"],
+      "content_type": "video",
+      "karma": 100,
+      "created_at": "2024-07-18T09:00:00Z"
+    },
+    {
+      "post_id": "post_1008",
+      "author_id": "stu_2015",
+      "tags": ["events", "networking"],
+      "content_type": "image",
+      "karma": 65,
+      "created_at": "2024-07-18T20:00:00Z"
+    },
+    {
+      "post_id": "post_1009",
+      "author_id": "stu_3012",
+      "tags": ["python", "coding"],
+      "content_type": "text",
+      "karma": 75,
+      "created_at": "2024-07-18T10:15:00Z"
+    },
+    {
+      "post_id": "post_1010",
+      "author_id": "stu_1009",
+      "tags": ["internships", "AI"],
+      "content_type": "video",
+      "karma": 85,
+      "created_at": "2024-07-18T08:45:00Z"
+    },
+    {
+      "post_id": "post_1011",
+      "author_id": "stu_4432",
+      "tags": ["startups", "python"],
+      "content_type": "text",
+      "karma": 130,
+      "created_at": "2024-07-18T22:30:00Z"
+    },
+    {
+      "post_id": "post_1012",
+      "author_id": "stu_2010",
+      "tags": ["coding", "events"],
+      "content_type": "video",
+      "karma": 90,
+      "created_at": "2024-07-18T09:30:00Z"
+    },
+    {
+      "post_id": "post_1013",
+      "author_id": "stu_3015",
+      "tags": ["AI", "research"],
+      "content_type": "text",
+      "karma": 110,
+      "created_at": "2024-07-18T21:45:00Z"
+    },
+    {
+      "post_id": "post_1014",
+      "author_id": "stu_2002",
+      "tags": ["clubs", "coding"],
+      "content_type": "image",
+      "karma": 70,
+      "created_at": "2024-07-18T10:00:00Z"
+    },
+    {
+      "post_id": "post_1015",
+      "author_id": "stu_4432",
+      "tags": ["startups", "networking"],
+      "content_type": "video",
+      "karma": 140,
+      "created_at": "2024-07-18T22:45:00Z"
+    },
+    {
+      "post_id": "post_1016",
+      "author_id": "stu_3012",
+      "tags": ["python", "hackathons"],
+      "content_type": "text",
+      "karma": 85,
+      "created_at": "2024-07-18T09:15:00Z"
+    },
+    {
+      "post_id": "post_1017",
+      "author_id": "stu_2010",
+      "tags": ["internships", "AI"],
+      "content_type": "video",
+      "karma": 90,
+      "created_at": "2024-07-18T08:50:00Z"
+    },
+    {
+      "post_id": "post_1018",
+      "author_id": "stu_2005",
+      "tags": ["coding", "events"],
+      "content_type": "image",
+      "karma": 60,
+      "created_at": "2024-07-18T20:30:00Z"
+    },
+    {
+      "post_id": "post_1019",
+      "author_id": "stu_3012",
+      "tags": ["machine learning", "python"],
+      "content_type": "text",
+      "karma": 115,
+      "created_at": "2024-07-18T10:45:00Z"
+    },
+    {
+      "post_id": "post_1020",
+      "author_id": "stu_4432",
+      "tags": ["startups", "coding"],
+      "content_type": "text",
+      "karma": 150,
+      "created_at": "2024-07-18T21:15:00Z"
+    }
+  ]
+}
+
