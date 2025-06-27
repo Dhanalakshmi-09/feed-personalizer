@@ -3,7 +3,7 @@ from main import app
 
 client = TestClient(app)
 
-# ✅ Test: Valid Input
+#Test: Valid Input
 def test_valid_input():
     payload = {
         "user_id": "stu_4432",
@@ -31,7 +31,7 @@ def test_valid_input():
     assert len(body["ranked_posts"]) == 1
     assert "score" in body["ranked_posts"][0]
 
-# ✅ Test: Empty Post List
+#Test: Empty Post List
 def test_empty_post_list():
     payload = {
         "user_id": "stu_4432",
@@ -48,7 +48,7 @@ def test_empty_post_list():
     body = res.json()
     assert body["ranked_posts"] == []
 
-# ✅ Test: Invalid content_type (should fail schema validation)
+#Test: Invalid content_type (should fail schema validation)
 def test_invalid_content_type():
     payload = {
         "user_id": "stu_4432",
@@ -72,7 +72,7 @@ def test_invalid_content_type():
     res = client.post("/rank-feed", json=payload)
     assert res.status_code == 422  # Validation error
 
-# ✅ Test: Missing required field (karma)
+#Test: Missing required field (karma)
 def test_missing_required_field():
     payload = {
         "user_id": "stu_4432",
@@ -96,7 +96,7 @@ def test_missing_required_field():
     res = client.post("/rank-feed", json=payload)
     assert res.status_code == 422
 
-# ✅ Test: Invalid date format
+#Test: Invalid date format
 def test_invalid_date_format():
     payload = {
         "user_id": "stu_4432",
